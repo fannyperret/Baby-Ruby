@@ -1,5 +1,5 @@
 a = 10
-# 
+#
 # puts "a est égal à : #{a}"
 
 if a > 10
