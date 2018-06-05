@@ -5,9 +5,9 @@ jours_ouvres = [
 i = 5
 
 jours_ouvres.each do |jour|
-  if jour == "vendredi"
+  if jour == "Vendredi"
     puts jour + " : Bon weekend !"
-  elsif jour == "lundi"
+  elsif jour == "Lundi"
     puts jour + " : Merde alors ! Courage !"
   else
     puts jour + " : C'est le weekend dans #{i} jours !"
